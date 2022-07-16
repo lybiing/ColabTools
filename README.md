@@ -16,3 +16,7 @@
 ----------------
 # 🎬 视频、图像到3D的处理
 [nerfies](https://github.com/google/nerfies)
+
+--------------
+# 🎬 视频、图像处理 instant-ngp
+[instant-ngp](https://github.com/NVlabs/instant-ngp)
