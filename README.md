@@ -10,4 +10,9 @@
 我的体验是：【我就感觉到快】
 
 ----------------
-# 
+# 🎬 视频补帧
+[video_interpolation](https://github.com/lybiing/ColabTools/blob/main/video/video_interpolation.ipynb)
+
+----------------
+# 🎬 视频、图像到3D的处理
+[nerfies](https://github.com/google/nerfies)
